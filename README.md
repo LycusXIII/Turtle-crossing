@@ -15,7 +15,7 @@ This Python project implements a Turtle corssing game where you control a turtle
 
 5. **Usage:**
    * Navigate to the project directory in your terminal.
-   * * Run the `main.py` file: `python main.py`
+   * Run the `main.py` file: `python main.py`
 
 ### **Gameplay**
 
