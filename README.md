@@ -14,8 +14,8 @@ This Python project implements a Turtle corssing game where you control a turtle
    * Clone this repository or download the Python files (`main.py`, `car_manager.py`, `player.py`, `scoreboard.py`).
 
 5. **Usage:**
-   * Navigate to the project directory in your terminal.
-   * Run the `main.py` file: `python main.py`
+   * Navigate to the project directory in your terminal.
+   * * Run the `main.py` file: `python main.py`
 
 ### **Gameplay**
 
