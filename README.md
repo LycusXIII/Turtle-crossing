@@ -34,6 +34,6 @@ This Python project implements a Turtle corssing game where you control a turtle
 
 This project relies on the `turtle` library, which is part of the standard Python library.
 
-Link to the turtle documentation: [https://docs.python.org/3/library/turtle.html](https://docs.python.org/3/library/turtle.html)
+Link to the turtle documentation: https://docs.python.org/3/library/turtle.html
 
 **Enjoy playing your Turtle Crossing Game!**
